@@ -11,7 +11,7 @@ a{
 }
 
 #click_me:hover{
-  color: red !important;
+  color:white !important;
 }
 
 
@@ -19,7 +19,7 @@ body {
 	margin: 0;
 }
 #banner{
-  background-color:white;
+  background-color: white;
   color:red;
   text-align: center;
   padding:10px;
@@ -56,9 +56,8 @@ nav a:hover {
 	flex-grow: 2;
 	background-color: white;
 }
-
 #main{
-  
+  columns: -8;
 }
 
 
